@@ -42,7 +42,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_gravity="center"
-            android:src="@drawable/ic_animal_user"/>
+            android:src="@drawable/ic_animal_user" />
         <ImageView
             android:id="@+id/addImage"
             android:layout_width="30dp"
@@ -180,5 +180,21 @@
         android:layout_marginTop="@dimen/bottom_margin_10"
         android:outlineSpotShadowColor="@color/gray"
         android:entries="@array/testing"/>
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/padding32dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="@drawable/bg_rectangle_filled_primary"
+        android:paddingLeft="@dimen/height_50"
+        android:paddingRight="@dimen/height_50"
+        android:text="@string/next"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="18dp"
+        android:textStyle="bold" />
 
 </LinearLayout>
