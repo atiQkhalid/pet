@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_half">8dp</dimen>
+    <dimen name="width_75">75dp</dimen>
+    <dimen name="height_50">50dp</dimen>
+    <dimen name="bottom_margin_10">10dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="height_45">45dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="font_20sp">20sp</dimen>
+    <dimen name="height_5">5dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding32dp">32dp</dimen>
+    <dimen name="padding24dp">24dp</dimen>
+    <dimen name="textSize26sp">26dp</dimen>
+    <dimen name="textSize20sp">20dp</dimen>
+    <dimen name="textSize16sp">16dp</dimen>
+    <dimen name="textSize36sp">36dp</dimen>
+    <dimen name="textSize17sp">17dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="super_bottom_sheet_width">0dp</dimen>
+    <item name="super_bottom_sheet_dim" format="float" type="dimen">0.6</item>
+    <dimen name="super_bottom_sheet_radius">16dp</dimen>
+    <dimen name="super_bottom_sheet_peek_height">64dp</dimen>
+    <dimen name="demo_sheet_rounded_corner">24dp</dimen>
+    <dimen name="button_height">45dp</dimen>
+    <dimen name="heading">40dp</dimen>
+    <dimen name="card_corner">4dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="textSize18dp">18dp</dimen>
+
+    <dimen name="cp_dialog_height">30dp</dimen>
+    <dimen name="logoMarginTop">50dp</dimen>
+    <dimen name="viewPgerImageWidth">200dp</dimen>
+    <dimen name="viewPagerImageHeight">154dp</dimen>
+    <dimen name="normalHeadingFontSize">17sp</dimen>
+    <dimen name="normalTextMargin">20dp</dimen>
+
+    <dimen name="adoptPetImgWidth">120dp</dimen>
+    <dimen name="adoptPetImgMargin">40dp</dimen>
+    <dimen name="bigButtonWidth">300dp</dimen>
+    <dimen name="pagePadding">20dp</dimen>
+</resources>

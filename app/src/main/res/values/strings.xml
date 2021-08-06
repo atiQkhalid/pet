@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="cancel">Cancel</string>
+    <string name="signOutMessage">Are you sure,You want to sign out?</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_surname">Surname</string>
+    <string name="label_password_again">Password (Again)</string>
+    <string name="label_password">Password</string>
+    <string name="by_continuing_you_are_confirming_that_you_accept_the_user_agreement_and_conditions">By continuing, you are confirming that you accept the User Agreement and Conditions</string>
+    <string name="viewPager1Title">Find a match</string>
+    <string name="vp1Text">You can easily find a match for your cat or dog on Petner!</string>
+    <string name="viewPager2Title">Find a friend</string>
+    <string name="textVp2">If your cat or dog needs a friend to play, there are plenty of pets on Petner for them!</string>
+    <string name="titlevp3">Adopt a pet</string>
+    <string name="textvp3">If you want to adopt a new family member, what you need to do is to choose from many options on Petner!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="careSnap">Pets</string>
+    <string name="rootedDevice">Your device is rooted.</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcomeText">Choose your pet to start</string>
+    <string name="i_ve_a_dog">I\'ve a Dog</string>
+    <string name="i_ve_a_cat">I\'ve a Cat</string>
+    <string name="next">next</string>
+    <string name="pet_profile_info">Pet profile info</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="pure_breed">Pure Breed</string>
+    <string name="hybrid">Hybrid</string>
+
+<!--    testingspiner-->
+    <string-array name="testing">
+        <item>testing</item>
+        <item>testing</item>
+    </string-array>
+</resources>
